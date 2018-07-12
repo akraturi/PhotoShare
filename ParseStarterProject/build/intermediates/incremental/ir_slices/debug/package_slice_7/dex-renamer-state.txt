@@ -1,0 +1,4 @@
+#Tue Jun 19 23:29:01 IST 2018
+base.0=/home/amit/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
